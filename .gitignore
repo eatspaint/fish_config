@@ -1,0 +1,3 @@
+# ignore history and generated settings
+/fish_history
+/fishd.*

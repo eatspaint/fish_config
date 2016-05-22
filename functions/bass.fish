@@ -1,0 +1,1 @@
+/Users/christianfuller/.config/fisherman/bass/functions/bass.fish

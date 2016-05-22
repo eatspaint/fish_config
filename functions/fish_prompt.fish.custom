@@ -1,0 +1,14 @@
+function fish_prompt
+  "test"
+  echo -n -s
+  set_color $fish_color_user
+  $USER $normal ' '
+  set_color 64E39C
+  prompt_pwd $normal
+  set_color DEB360
+  __fish_git_prompt $normal
+  set_color AA4850
+  $prompt_status $mode_str
+  set_color BFDF55
+  "> "
+end

@@ -1,3 +1,3 @@
-function pcd
+function drop
   cd (pbpaste)
 end

@@ -1,6 +1,7 @@
 set -g -x PATH /usr/local/bin $PATH
 set -g -x fish_greeting ''
 set PATH "$HOME/.rbenv/shims" $PATH
+set PATH "/Applications/Postgres.app/Contents/Versions/9.4/bin" $PATH
 rbenv rehash ^/dev/null
 
 function rbenv

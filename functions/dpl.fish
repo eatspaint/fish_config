@@ -1,3 +1,3 @@
 function dpl
-  cd ~/Desktop/DPL-TA
+  cd ~/Desktop/DPL
 end

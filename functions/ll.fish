@@ -1,3 +1,3 @@
 function ll
-  ls -la
+  ls -lah
 end
